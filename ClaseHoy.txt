@@ -1,0 +1,3 @@
+La clase de hoy estuvimos realizando un taller de github relacionado a lo que los compañeros vieron la clase pasada
+
+sistema de control de versiones: es un sistema que lleva un registro de los cambios que se van hacieno a un archivo o varios archivos a lo largo del tiempo, de modo que podamos recuperar versiones específicas más adelante.
